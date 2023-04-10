@@ -1,0 +1,21 @@
+{
+  "name": "Waher",
+  "displayName": "Waher",
+  "description": "Waher in new parlance",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Waher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Waher-color-theme.json"
+      }
+    ]
+  }
+}
