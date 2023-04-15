@@ -1,0 +1,226 @@
+[
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 0,
+        "end": 0,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0,
+        "end": 0,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.11,
+        "end": 0.11,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "1d1d1d",
+      "lockHex": "1d1d1d",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 32,
+        "end": 32,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.64,
+        "end": 0.64,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.91,
+        "end": 0.91,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "e9a354",
+      "lockHex": "e9a354",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 197,
+        "end": 197,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.35,
+        "end": 0.35,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.82,
+        "end": 0.82,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "aec2d2",
+      "lockHex": "aec2d2",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 18,
+        "end": 18,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.62,
+        "end": 0.62,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.88,
+        "end": 0.88,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "e08056",
+      "lockHex": "e08056",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 43,
+        "end": 43,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.44,
+        "end": 0.44,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.87,
+        "end": 0.87,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "dfc47d",
+      "lockHex": "dfc47d",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 206,
+        "end": 206,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.09,
+        "end": 0.09,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.89,
+        "end": 0.89,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "cedae3",
+      "lockHex": "cedae3",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 180,
+        "end": 180,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.31,
+        "end": 0.31,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.76,
+        "end": 0.76,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "85c2c2",
+      "lockHex": "85c2c2",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 10,
+      "hue": {
+        "start": 120,
+        "end": 120,
+        "curve": "linear"
+      },
+      "saturation": {
+        "start": 0.2,
+        "end": 0.2,
+        "rate": 1,
+        "curve": "linear"
+      },
+      "brightness": {
+        "start": 0.62,
+        "end": 0.62,
+        "curve": "linear"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "7f9f7f",
+      "lockHex": "7f9f7f",
+      "provideInverted": false,
+      "rotation": "clockwise"
+    }
+  }
+]
