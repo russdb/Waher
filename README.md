@@ -1,16 +1,12 @@
-# Waher README
+## Waher for the new age
 
-## Working with Markdown
+This is a port of the old and popular Waher theme for vscode. There is currently a pre alpha version to debug in vscode.  
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Also included is a swatch which has the color and the number of times the color is used in the notepad++ theme, as well as an image with the most popular colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Road Map:
+- Create theme for azure data studio
+- Create a light theme
+- Create light/dark high contrast themes
+- Create a theme for windows terminal
+- Create a simple website for theme
