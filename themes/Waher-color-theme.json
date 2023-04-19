@@ -193,7 +193,7 @@
     "notificationsInfoIcon.foreground": "#75beff",
     "notificationCenter.border": "#292929",
     "notificationCenterHeader.foreground": "#cedae3",
-    "notificationCenterHeader.background": "#1d1d1d",
+    "notificationCenterHeader.background": "#292929",
     "notifications.border": "#292929",
     "gitDecoration.addedResourceForeground": "#81b88b",
     "gitDecoration.conflictingResourceForeground": "#6c6cc4",
